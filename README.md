@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Canva&logoColor=white"/>
           
         
-          </div>
+          </div></div></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 프로젝트 소개 </h2> <br> 
