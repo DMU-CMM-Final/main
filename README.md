@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
   <br>
   <h4>협업툴</h4>
-  <img src="https://img.shields.io/badge/Notion-FFFFF?style=flat&logo=Notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <br>
