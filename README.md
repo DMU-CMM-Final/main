@@ -40,11 +40,3 @@
   <br>
 </p>
 
-
-
-## 🏅 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMU-CMM-Final&bg_color=180,4b4a73,00000000&title_color=000000&text_color=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMU-CMM-Final&layout=compact&bg_color=180,4b4a73,00000000&title_color=000000&text_color=000000"/>
-</p>
