@@ -53,13 +53,34 @@
 <p>🌐 배포 링크: https://blancksync.example.com</p>
 
 
-## 팀원 소개
-| 이름     | 역할             | GitHub                                     |
-|----------|------------------|--------------------------------------------|
-| 박수현   | 팀장 / 프론트엔드 개발자 | [@soo](https://github.com/park-soo-hyeon)   |
-| 김규한   | 풀스택 개발자        | [@gyu](https://github.com/gyuhan0114)       |
-| 유현하   | 백엔드 개발자        | [@hyun](https://github.com/yoohyunha)       |
-| 임현     | 백엔드 개발자        | [@lim](https://github.com/limhyun0319)      |
+## 🧑‍🎨팀원 소개
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
+  <b>박수현</b><br>
+  팀장 / 프론트엔드<br>
+  <a href="https://github.com/park-soo-hyeon">@soo</a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
+  <b>김규한</b><br>
+  풀스택 개발자<br>
+  <a href="https://github.com/gyuhan0114">@gyu</a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
+  <b>유현하</b><br>
+  백엔드 개발자<br>
+  <a href="https://github.com/yoohyunha">@hyun</a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
+  <b>임현</b><br>
+  백엔드 개발자<br>
+  <a href="https://github.com/limhyun0319">@lim</a>
+</p>
 
 
 
