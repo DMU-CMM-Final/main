@@ -16,7 +16,7 @@
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <span style="display: flex; align-items: center; gap: 8px;">
-    <h4 style="margin: 0;">프론트엔드</h4>
+    <h4 style="margin: 0; display: inline-flex;">프론트엔드</h4>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
   </span>
