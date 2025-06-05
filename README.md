@@ -1,20 +1,12 @@
 # CMM
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Blanck%20Sync&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=B8B6F2,D1D0F2,C6C4F2&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn)
+
 ## 🛠️ 프로젝트 개요
 
 
 
 ## 🧑‍💻 프로젝트 소개
-
-<p align="center">
-  <a href="https://github.com/DMU-CMM-Final">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=B8B6F2&height=200&section=blancksync&fontColor=3B3740&desc=Let%27s%20sync%20the%20blank%20into%20impact.&descSize=16&animation=fadeIn&fontAlign=70&fontAlignY=40" />
-  </a>
-</p>
-
-
-
 
 
 
