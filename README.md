@@ -1,6 +1,6 @@
 # CMM
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FAD9F2,EBD9F9,D6CCF5&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn&descAlign=center&desc=&stroke=00FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FAD9F2&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn" />
 </p>
 
 
