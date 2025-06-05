@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=EDE9F2&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn" />
 </p>
 
-# 1. 프로젝트 소개
-## 1-1 🛠️ 프로젝트 개요
+## 프로젝트 소개
+## 🛠️ 프로젝트 개요
 
 
 
@@ -46,7 +46,7 @@
 
 
 ## ⚙️ 개발 환경
-🐙 GitHub: https://github.com/RoutineAde
+🐙 GitHub: https://github.com/DMU-CMM-Final
 🗂 Notion: [https://notion.so/CMM](https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd?v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link)
 🌐 배포 링크: https://blancksync.example.com
 
@@ -55,7 +55,7 @@
 | 이름  | 역할     | GitHub                           |
 | --- | ------ | -------------------------------- |
 | 박수현 | 팀장/프론트엔드 | [@soo](https://github.com/park-soo-hyeon) |
-| 김규한 | 풀스택 | [@gyu](https://github.com/gyuhan0114)   |
+| 김규한 | 프론트엔드 | [@gyu](https://github.com/gyuhan0114)   |
 | 유현하 | 백엔드 | [@hyun](https://github.com/yoohyunha) |
 | 임현 | 백엔드 | [@lim](https://github.com/limhyun0319) |
 
