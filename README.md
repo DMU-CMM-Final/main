@@ -30,3 +30,21 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white"/>
 </p>
 
+
+🐙 GitHub: https://github.com/RoutineAde
+
+🗂 Notion: https://notion.so/팀페이지
+
+🌐 배포 링크: https://blancksync.example.com
+
+
+
+| 이름  | 역할     | GitHub                           |
+| --- | ------ | -------------------------------- |
+| 박수현 | 프론트엔드  | [@soo](https://github.com/park-soo-hyeon) |
+| 김규한 | 프론트엔드    | [@gyu](https://github.com/gyuhan0114)   |
+| 유현하 | 백엔드 | [@hyun](https://github.com/yoohyunha) |
+| 임현 | 백엔드 | [@lim](https://github.com/limhyun0319) |
+
+
+
