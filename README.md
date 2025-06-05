@@ -9,16 +9,10 @@
 
 <p align="center">
   
-</p>
-<!----
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDMU-CMM-Final%2F&count_bg=%23C6C4F2&title_bg=%23B8B6F2&icon=github.svg&icon_color=%233B3740&title=GitHub&edge_flat=false"/>
-  </a>
-</p>---->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=B8B6F2&height=200&section=Visitors&text=GitHub%20Visitors&fontColor=3B3740&desc=Thanks%20for%20visiting%20our%20repo!&descSize=16&animation=fadeIn" />
 </p>
+
 
 
 
