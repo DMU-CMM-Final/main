@@ -8,10 +8,11 @@
 ## 🧑‍💻 프로젝트 소개
 
 <p align="center">
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=B8B6F2&height=200&section=Visitors&text=GitHub%20Visitors&fontColor=3B3740&desc=Thanks%20for%20visiting%20our%20repo!&descSize=16&animation=fadeIn" />
+  <a href="https://github.com/DMU-CMM-Final">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=B8B6F2&height=200&section=blancksync&fontColor=3B3740&desc=Let%27s%20sync%20the%20blank%20into%20impact.&descSize=16&animation=fadeIn&fontAlign=70&fontAlignY=40" />
+  </a>
 </p>
+
 
 
 
