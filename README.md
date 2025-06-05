@@ -1,6 +1,7 @@
 # CMM
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=B8B6F2,D1D0F2,C6C4F2&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FAD9F2,EBD9F9,D6CCF5&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn" />
+</p>
 
 ## 🛠️ 프로젝트 개요
 
