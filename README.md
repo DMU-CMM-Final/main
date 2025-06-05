@@ -54,12 +54,13 @@
 
 
 ## 팀원 소개
-| 이름     | 역할        | GitHub                              |
-| ------------ | -------------| --------------------------------------- |
-| 박수현 | 팀장/프론트엔드 | [@soo](https://github.com/park-soo-hyeon) |
-| 김규한 | 풀스택 | [@gyu](https://github.com/gyuhan0114)   |
-| 유현하 | 백엔드 | [@hyun](https://github.com/yoohyunha) |
-| 임현 | 백엔드 | [@lim](https://github.com/limhyun0319) |
+| 이름     | 역할             | GitHub                                     |
+|----------|------------------|--------------------------------------------|
+| 박수현   | 팀장 / 프론트엔드 개발자 | [@soo](https://github.com/park-soo-hyeon)   |
+| 김규한   | 풀스택 개발자        | [@gyu](https://github.com/gyuhan0114)       |
+| 유현하   | 백엔드 개발자        | [@hyun](https://github.com/yoohyunha)       |
+| 임현     | 백엔드 개발자        | [@lim](https://github.com/limhyun0319)      |
+
 
 
 
