@@ -81,7 +81,20 @@
   백엔드 개발자<br>
   <a href="https://github.com/limhyun0319">@lim</a>
 </p>
-
+			
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100">
+박수현
+팀장 / 프론트엔드
+<a href="https://github.com/park-soo-hyeon">@soo</a>	<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100">
+김규한
+풀스택 개발자
+<a href="https://github.com/gyuhan0114">@gyu</a>	<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100">
+유현하
+백엔드 개발자
+<a href="https://github.com/yoohyunha">@hyun</a>	<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100">
+임현
+백엔드 개발자
+<a href="https://github.com/limhyun0319">@lim</a>
 
 
 
