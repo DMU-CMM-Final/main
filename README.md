@@ -44,11 +44,8 @@
 </div>
 </div>
 
+## 시스템 구성도
 
-## ⚙️ 흠
-<p>🐙 GitHub: https://github.com/DMU-CMM-Final</p>
-<p>🗂 Notion:[@CMM](https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd?v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link)</p>
-<p>🌐 배포 링크: https://blancksync.example.com</p>
 
 ## ERD
  <img src="images/erd.png" width="700" height="400">
@@ -60,4 +57,7 @@
 |---|---|---|---|
 | <img src="images/soo.png" width="120" height="120"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="120" height="120"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="120" height="120"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="120" height="120"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
 
-
+## ⚙️ 흠
+<p>🐙 GitHub: https://github.com/DMU-CMM-Final</p>
+<p>🗂 Notion:[@CMM](https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd?v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link)</p>
+<p>🌐 배포 링크: https://blancksync.example.com</p>
