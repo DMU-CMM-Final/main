@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=EDE9F2&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=3B3740&animation=fadeIn" />
 </p>
 
-## 프로젝트 소개
-## 🛠️ 프로젝트 개요
 
+## 🛠️ 프로젝트 개요
+ <img src="images/erd.png" width="800" height="500">
 
 
 ## 🧑‍💻 프로젝트 소개
-
+ <img src="images/erd.png" width="800" height="500">
 
 
 ## ⚙️ 개발 환경
