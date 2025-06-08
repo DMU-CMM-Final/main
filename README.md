@@ -50,7 +50,8 @@
 <p>🗂 Notion:[@CMM](https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd?v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link)</p>
 <p>🌐 배포 링크: https://blancksync.example.com</p>
 
-
+## ERD
+ <img src="images/erd.png" width="200" height="200">
 
 
 ## 🧑‍🎨 팀원 소개
