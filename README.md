@@ -5,11 +5,11 @@
 
 
 ## 🛠️ 프로젝트 개요
- <img src="images/.png" width="800" height="500">
+ <img src="images/.png" width="700" height="400">
 
 
 ## 🧑‍💻 프로젝트 소개
- <img src="images/.png" width="800" height="500">
+ <img src="images/.png" width="700" height="400">
 
 
 ## ⚙️ 개발 환경
@@ -51,7 +51,7 @@
 <p>🌐 배포 링크: https://blancksync.example.com</p>
 
 ## ERD
- <img src="images/erd.png" width="800" height="500">
+ <img src="images/erd.png" width="700" height="400">
 
 
 ## 🧑‍🎨 팀원 소개
