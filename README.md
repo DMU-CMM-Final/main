@@ -34,7 +34,6 @@
   <h4 style="margin: 0;">배포</h4>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
 <div style="display: flex; align-items: center; gap: 8px; margin: 0;">
