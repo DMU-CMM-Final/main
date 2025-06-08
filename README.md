@@ -66,7 +66,7 @@
 
 |  |  |  |  |
 |---|---|---|---|
-| <img src="images/soo.png" width="120" height="120"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="120" height="120"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="120" height="120"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="130" height="130"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
+| <img src="images/soo.png" width="150" height="150"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="150" height="150"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="150" height="150"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="150" height="150"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
 
 ## ⚙️ 흠
 <p>🐙 GitHub: https://github.com/DMU-CMM-Final</p>
