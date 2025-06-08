@@ -57,6 +57,6 @@
 
 |  |  |  |  |
 |---|---|---|---|
-| <img src="images/soo.png" width="100" height="100"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="100" height="100"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="100" height="100"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="100" height="100"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
+| <img src="images/soo.png" width="100" height="100"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="100" height="100"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="100" height="100"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="80" height="80"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
 
 
