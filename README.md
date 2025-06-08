@@ -45,10 +45,21 @@
 </div>
 
 ## 시스템 구성도
-
+ <img src="images/.png" width="700" height="400">
 
 ## ERD
  <img src="images/erd.png" width="700" height="400">
+
+## 주요기능
+ <img src="images/.png" width="700" height="400">
+
+
+## 시연영상
+ <img src="images/.png" width="700" height="400">
+
+
+## ERD
+ <img src="images/.png" width="700" height="400">
 
 
 ## 🧑‍🎨 팀원 소개
