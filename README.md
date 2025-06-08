@@ -54,36 +54,8 @@
 
 
 ## 🧑‍🎨팀원 소개
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
-  <b>박수현</b><br>
-  팀장 / 프론트엔드<br>
-  <a href="https://github.com/park-soo-hyeon">@soo</a>
-</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
-  <b>김규한</b><br>
-  풀스택 개발자<br>
-  <a href="https://github.com/gyuhan0114">@gyu</a>
-</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
-  <b>유현하</b><br>
-  백엔드 개발자<br>
-  <a href="https://github.com/yoohyunha">@hyun</a>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>
-  <b>임현</b><br>
-  백엔드 개발자<br>
-  <a href="https://github.com/limhyun0319">@lim</a>
-</p>
-## 🧑‍🎨 팀원 소개
-
-|  |  |  |  |
 |---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**박수현**<br>팀장 / 프론트엔드<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**김규한**<br>풀스택 개발자<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**유현하**<br>백엔드 개발자<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**임현**<br>백엔드 개발자<br><a href="https://github.com/limhyun0319">@lim</a> |
 
