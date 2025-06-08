@@ -45,18 +45,18 @@
 </div>
 
 
-
-
-## ⚙️ 개발 환경
+## ⚙️ 흠
 <p>🐙 GitHub: https://github.com/DMU-CMM-Final</p>
 <p>🗂 Notion:[@CMM](https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd?v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link)</p>
 <p>🌐 배포 링크: https://blancksync.example.com</p>
+
+
 
 
 ## 🧑‍🎨 팀원 소개
 
 |  |  |  |  |
 |---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**박수현**<br>팀장 / 프론트엔드<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**김규한**<br>풀스택 개발자<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**유현하**<br>백엔드 개발자<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**임현**<br>백엔드 개발자<br><a href="https://github.com/limhyun0319">@lim</a> |
+| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**박수현**<br>팀장 / 프론트엔드<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" height="100"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
 
 
