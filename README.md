@@ -51,7 +51,7 @@
 <p>🌐 배포 링크: https://blancksync.example.com</p>
 
 ## ERD
- <img src="images/erd.png" width="200" height="200">
+ <img src="images/erd.png" width="500" height="500">
 
 
 ## 🧑‍🎨 팀원 소개
