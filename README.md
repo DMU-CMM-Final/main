@@ -5,11 +5,8 @@
 
 
 ## 🛠️ 프로젝트 개요
- <img src="images/.png" width="700" height="400">
 
-
-## 🧑‍💻 프로젝트 소개
- <img src="images/.png" width="700" height="400">
+ <img src="images/info.png" width="700" height="400">
 
 
 ## ⚙️ 개발 환경
@@ -51,7 +48,7 @@
 </div>
 
 ## 시스템 구성도
- <img src="images/.png" width="700" height="400">
+ <img src="images/arch.png" width="700" height="400">
 
 ## ERD
  <img src="images/erd.png" width="700" height="400">
