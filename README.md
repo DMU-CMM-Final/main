@@ -60,7 +60,7 @@
  <img src="images/ui.png" width="700" height="400">
 
 ## 시연영상
-<a href="https://youtu.be/aE4ufO2oBOs">@영상보기</a>
+<a href="https://youtu.be/aE4ufO2oBOs">@영상보기</a><br>
 
 
 
