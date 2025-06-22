@@ -60,7 +60,7 @@
  <img src="images/ui.png" width="700" height="400">
 
 ## 시연영상
- <img src="images/.png" width="700" height="400">
+<a href="https://github.com/yoohyunha">@영상보</a>
 
 
 
@@ -71,9 +71,7 @@
 |---|---|---|---|
 | <img src="images/soo.png" width="140" height="130"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="140" height="130"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="140" height="130"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="130" height="130"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
 
-## ⚙️ 흠
-🐙 GitHub: <a href="https://github.com/DMU-CMM-Final" >@DMU_CMM_Final </a> <br>
-🗂 Notion: <a href="https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd? v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link" target="_blank">@CMM</a><br>
+
 
 
 ## 느낀점
@@ -94,4 +92,6 @@
 이번 프로젝트에서 스프링부트를 활용해 백엔드를 맡아 회원 관리, 팀 프로젝트 관리, 네이버/카카오 로그인 API 구현을 담당했습니다. RESTful 아키텍처와 컨트롤러 구조를 설계하고 구현하면서 스프링 프레임워크에 대해 더 깊이 이해할 수 있었습니다. 사용자 등록, 인증 기능을 설계하면서 데이터베이스와의 연동, 그리고 데이터 모델링의 중요성을 다시 한 번 느꼈습니다. 특히 로그인 API 연동 과정에서는 외부 서비스와의 OAuth 인증, 보안 처리, 토큰 관리, 그리고 클라이언트-서버 간 데이터 통신 흐름을 더욱 명확하게 이해하게 되었습니다.
 <br>
 
+🐙 GitHub: <a href="https://github.com/DMU-CMM-Final" >@DMU_CMM_Final </a> <br>
+🗂 Notion: <a href="https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd? v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link" target="_blank">@CMM</a><br>
 
