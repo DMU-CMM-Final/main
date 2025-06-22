@@ -42,7 +42,25 @@
 
 <div style="display: flex; align-items: center; gap: 8px; margin: 0;">
   <h4 style="margin: 0;">디자인</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=fla기</a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
+</div>
+</div>
+
+## 시스템 구성도
+ <img src="images/arch.png" width="700" height="400">
+
+## ERD
+ <img src="images/erd.png" width="700" height="400">
+
+## 주요기능
+ <img src="images/stack.png" width="700" height="400">
+ 
+## UI
+ <img src="images/ui.png" width="700" height="400">
+
+## 시연영상
+<a href="https://github.com/yoohyunha">@영상보</a>
 
 
 
