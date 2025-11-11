@@ -11,7 +11,7 @@
 
 ## ⚙️ 개발 환경
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align="center;">
 
 </div>
 <div style="display: flex; align-items: center; gap: 8px; margin: 0;">
@@ -30,20 +30,20 @@
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center;">
   <h4 style="margin: 0;">배포</h4>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center;">
   <h4 style="margin: 0;">협업툴</h4>
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center;">
   <h4 style="margin: 0;">디자인</h4>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
@@ -51,23 +51,35 @@
 </div>
 
 ## 유사 서비스 분석
-<img src="images/other.png" width="700" height="400">
+<div align="center">
+<img src="images/other.png" width="700" height="400" >
+</div>
 
 ## 시스템 구성도
+<div align="center">
  <img src="images/arch.png" width="700" height="400">
+ </div>
 
 ## ERD
+<div align="center">
  <img src="images/erd.png" width="700" height="400">
+ </div>
 
 ## 주요기능
+<div align="center">
  <img src="images/stack1.png" width="700" height="400">
  <img src="images/stack2.png" width="700" height="400">
+ </div>
  
 ## UI
+<div align="center">
  <img src="images/ui.png" width="700" height="400">
+ </div>
 
 ## 개발 일정
+<div align="center">
 <img src="images/chart.png" width="700" height="400">
+</div>
 
 ## 🎬 시연 영상
 
@@ -75,7 +87,7 @@
   <a href="https://youtu.be/aE4ufO2oBOs">
     <img src="images/main.png" width="700" height="400" alt="시연 영상 썸네일">
   </a>
-  <br><br> <a href="https://youtu.be/aE4ufO2oBOs">
+  <br><br> ↑<a href="https://youtu.be/aE4ufO2oBOs">
     <img src="https://img.shields.io/badge/YouTube_시청-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
