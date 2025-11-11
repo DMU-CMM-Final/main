@@ -60,7 +60,7 @@
 
 ## 시스템 구성도
 <div align="center">
- <img src="images/arch.png" width="600" height="300">
+ <img src="images/arch.png" width="600" height="400">
  </div>
 
 ## ERD
