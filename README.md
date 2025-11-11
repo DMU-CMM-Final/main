@@ -11,7 +11,7 @@
 
 ## ⚙️ 개발 환경
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align="center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align="center";">
 
 </div>
 <div style="display: flex; align-items: center; gap: 8px; margin: 0;">
