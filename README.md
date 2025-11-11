@@ -15,13 +15,13 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align="center";">
 
 </div>
-<div style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center"; ">
   <h4 style="margin: 0;">프론트엔드</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center";">
   <h4 style="margin: 0;">백엔드</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center";">
   <h4 style="margin: 0;">배포</h4>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center;">
+<div style="display: flex; align-items: center; gap: 8px; margin: 0; align="center";">
   <h4 style="margin: 0;">디자인</h4>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
