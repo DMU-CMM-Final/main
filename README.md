@@ -51,6 +51,20 @@
 </div>
 </div>
 
+
+## ⚙️ 개발 환경
+
+<hr/> <div align="center">
+
+| 프론트엔드 | 백엔드/DB | 배포 | 협업 및 디자인 |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon%20AWS&logoColor=white" /> | <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" /> |
+| | <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" /> | | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> |
+| | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> | | <img src="https://img-shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" /> |
+</div>
+<hr/>
+
 ## 유사 서비스 분석
 <div align="center">
 <img src="images/other.png" width="700" height="400" >
