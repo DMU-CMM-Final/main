@@ -5,8 +5,9 @@
 </p>
 
 ## 🛠️ 프로젝트 개요
-
+<div align="center">
  <img src="images/info.png" width="700" height="400"><br>
+</div>
 
 
 ## ⚙️ 개발 환경
