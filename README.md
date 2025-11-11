@@ -70,7 +70,7 @@
 
 
 ## 시연영상
-<a href="https://youtu.be/aE4ufO2oBOs"><img src="images/main.png" width="700" height="400"></a><br><div align="center">↑ 영상보기</div><br>
+<a href="https://youtu.be/aE4ufO2oBOs"><img src="images/main.png" width="700" height="400"></a><br>↑ 영상보기<br>
 
 
 
