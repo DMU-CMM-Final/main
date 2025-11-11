@@ -95,6 +95,9 @@ Node.js와 WebSocket을 활용하여 실시간 서버를 구현하면서 다양�
 이번 프로젝트를 통해 서버 구조를 설계하고 유지보수 가능한 코드를 작성하는 것의 중요성을 알게되었다. Spring Security를 통해 인증/인가의 기본 원리를 이해했으며 AWS, Docker 배포와 API 테스트 과정을 통해 실제 서비스 운영 흐름을 익힐 수 있었다.
 <br>
 
+[poster 다운로드](https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/poster%20%ED%98%95%EC%8B%9D%20ppt/poster.pptx)
+[제안서 다운로드]([https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/poster%20%ED%98%95%EC%8B%9D%20ppt/poster.pptx](https://github.com/DMU-CMM-Final/main/blob/main/%EC%A0%9C%EC%95%88%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf))
+
 🐙 GitHub: <a href="https://github.com/DMU-CMM-Final" >@DMU_CMM_Final </a> <br>
 🗂 Notion: <a href="https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd? v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link" target="_blank">@CMM</a><br>
 
