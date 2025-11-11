@@ -97,11 +97,11 @@
 
 
 ## 🧑‍🎨 팀원 소개
-<div align="center">
+
 |  |  |  |  |
 |---|---|---|---|
 | <img src="images/soo.png" width="140" height="130"><br>**박수현**<br>팀장 / 프론트<br><a href="https://github.com/park-soo-hyeon">@soo</a> | <img src="images/gyu.png" width="140" height="130"><br>**김규한**<br>풀스택<br><a href="https://github.com/gyuhan0114">@gyu</a> | <img src="images/hyun.png" width="140" height="130"><br>**유현하**<br>백엔드<br><a href="https://github.com/yoohyunha">@hyun</a> | <img src="images/lim.png" width="130" height="130"><br>**임현**<br>백엔드<br><a href="https://github.com/limhyun0319">@lim</a> |
-</div>
+
 <br>
 
 
