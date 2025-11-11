@@ -11,7 +11,7 @@
 
 
 ## ⚙️ 개발 환경
-<div align="center">
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 </div>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
 </div>
-</div></div>
+</div>
 
 ## 유사 서비스 분석
 <div align="center">
