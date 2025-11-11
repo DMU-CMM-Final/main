@@ -87,8 +87,8 @@
 ## 🎬 시연 영상
 
 <div align="center">
-  <a href="https://youtu.be/aE4ufO2oBOs">
-    <img src="images/main.png" width="700" height="400" alt="시연 영상 썸네일">
+  <a href="https://www.youtube.com/watch?v=RQrsGfOlqhs">
+    <img src="images/main.png" width="700" height="400">
   </a>
   <br><br> <a href="https://youtu.be/aE4ufO2oBOs">
     <img src="https://img.shields.io/badge/↑ YouTube_시청-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
