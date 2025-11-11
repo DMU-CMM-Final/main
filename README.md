@@ -70,6 +70,7 @@
 
 
 ## 시연영상
+<video src="https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/images/final_video.mp4" controls width="640" height="360"></video>
 <a href="https://youtu.be/aE4ufO2oBOs">@영상보기</a><br><br>
 
 
