@@ -69,11 +69,16 @@
 ## 개발 일정
 <img src="images/chart.png" width="700" height="400">
 
+## 🎬 시연 영상
 
-## 시연영상
-<a href="https://youtu.be/aE4ufO2oBOs"><img src="images/main.png" width="700" height="400"></a><br>↑ 영상보기<br>
-
-
+<div align="center">
+  <a href="https://youtu.be/aE4ufO2oBOs">
+    <img src="images/main.png" width="700" height="400" alt="시연 영상 썸네일">
+  </a>
+  <br><br> <a href="https://youtu.be/aE4ufO2oBOs">
+    <img src="https://img.shields.io/badge/YouTube_시청-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
 
 ## 🧑‍🎨 팀원 소개
@@ -108,6 +113,7 @@ Node.js와 WebSocket을 활용하여 실시간 서버를 구현하면서 다양�
 Poster : [poster 다운로드](https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/poster%20%ED%98%95%EC%8B%9D%20ppt/poster.pptx)<br>
 초기 계획서 : [계획서 다운로드](https://github.com/DMU-CMM-Final/main/blob/main/%EC%A0%9C%EC%95%88%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf)
 <br><br>
+
 🐙 GitHub: <a href="https://github.com/DMU-CMM-Final" >@DMU_CMM_Final </a> <br>
 🗂 Notion: <a href="https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd? v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link" target="_blank">@CMM</a><br>
 
