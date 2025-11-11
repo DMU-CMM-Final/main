@@ -1,4 +1,3 @@
-CMM
 # 실시간 원격 협업 플랫폼 - BlankSync
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=CCE6FF&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
