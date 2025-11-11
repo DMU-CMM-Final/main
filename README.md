@@ -49,6 +49,9 @@
 </div>
 </div>
 
+## 유사 서비스 분석
+<img src="images/other.png" width="700" height="400">
+
 ## 시스템 구성도
  <img src="images/arch.png" width="700" height="400">
 
@@ -56,10 +59,15 @@
  <img src="images/erd.png" width="700" height="400">
 
 ## 주요기능
- <img src="images/stack.png" width="700" height="400">
+ <img src="images/stack1.png" width="700" height="400">
+ <img src="images/stack2.png" width="700" height="400">
  
 ## UI
  <img src="images/ui.png" width="700" height="400">
+
+## 간트차트
+<img src="images/chart.png" width="700" height="400">
+
 
 ## 시연영상
 <a href="https://youtu.be/aE4ufO2oBOs">@영상보기</a><br>
