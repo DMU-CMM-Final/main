@@ -65,7 +65,7 @@
 ## UI
  <img src="images/ui.png" width="700" height="400">
 
-## 간트차트
+## 개발 일정
 <img src="images/chart.png" width="700" height="400">
 
 
